@@ -207,22 +207,16 @@ npm run dev
 - Mobile application support.
 
 ---
+PROJECT URL 
+https://sdaia-pathfinder.lovable.app
+
+---
 
 # GitHub Repository Link
-
 https://github.com/remanaifal-source/SDAIA-Program-Matcher
 
 ---
 
-# SDAIA Academy GitHub Repository Link
-
-https://github.com/SDAIAAcademy
-
-# GitHub Repository Link
-
-https://github.com/remanaifal-source/SDAIA-Program-Matcher
-
----
 
 # SDAIA Academy GitHub Repository Link
 
